@@ -172,5 +172,5 @@ sqlmap_results/: نتائج فحص حقن قواعد البيانات.
 
 
 
-MRX - Power in your hands.
+MRX - Power in imostafaa9.
 
