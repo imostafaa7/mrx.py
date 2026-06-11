@@ -1,5 +1,6 @@
 💀 MRX - Automated Recon & Vulnerability Scanning Workflow
 
+<img width="1920" height="1920" alt="mrx_logo" src="https://github.com/user-attachments/assets/8c153b99-a8dd-4c40-8bcb-ec5e54bff333" />
 
 
 
