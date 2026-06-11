@@ -28,7 +28,7 @@ def print_banner():
     ascii_banner = pyfiglet.figlet_format("MRX", font="slant")
     print(Fore.CYAN + ascii_banner)
     print(Fore.YELLOW + "\t\tAutomated Recon & Vulnerability Scanning Workflow")
-    print(Fore.MAGENTA + "\t\t\tCreated by Manus AI")
+    print(Fore.MAGENTA + "\t\t\tCreated by imostafaa9")
     print(Style.RESET_ALL + "\n" + "="*70 + "\n")
 
 def clear_screen():
